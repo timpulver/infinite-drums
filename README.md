@@ -7,6 +7,9 @@ Infinite Drums is a drum sequencer made for [BitRate 2020](https://bitrate.devpo
 
 For the visualisation [cables](https://cables.gl/) is being used. For audio playback [Tone.js](https://tonejs.github.io/).
 
+<iframe src="https://player.vimeo.com/video/453503681" width="640" height="424" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/453503681">Infinite Drums</a> from <a href="https://vimeo.com/timpulver">Tim Pulver</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 ## How to
 
 To start Infinite Drums locally run:
