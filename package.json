@@ -1,0 +1,17 @@
+{
+  "name": "cables-pure-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "load-cables": "npx cables --export 59Cx3g -d cables --combine-js",
+    "serve": "npx live-server"
+  },
+  "keywords": [],
+  "author": "Tim Pulver <git@timpulver.de>",
+  "license": "MIT",
+  "dev-dependencies": {
+    "@cables/cables": "0.8.0",
+    "live-server": "1.2.1"
+  }
+}
